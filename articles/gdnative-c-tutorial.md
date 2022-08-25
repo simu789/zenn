@@ -26,7 +26,7 @@ git clone https://github.com/godotengine/godot-headers.git
 ```
 git checkout godot-3.4.5-stable
 ```
-このコマンドで使用しているGodotEngineのバージョンへとcheckoutしてブランチを切り替える必要があります。
+このコマンドで、使用しているGodotEngineのバージョンへとcheckoutしてブランチを切り替える必要があります。
 
 切り替えると例のヘッダーファイルが作成されるので、コンパイルが可能になります。
 ### 2.コンパイル
