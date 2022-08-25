@@ -12,7 +12,7 @@ Godot Documentの記事[GDNative Cの例](https://docs.godotengine.org/en/stable
 3. Godot Engine 上での設定
 
 ### 1.指定されたgitファイルを用意
-まずは適当なプロジェクト用のフォルダを用意（今回はGDNative_test1にした）。
+まずは適当なプロジェクト用のフォルダを用意（今回はGDNative_test1にしました）。
 ```
 cd GDNative_test1
 ```
